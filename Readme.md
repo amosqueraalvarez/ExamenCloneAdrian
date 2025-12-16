@@ -1,5 +1,5 @@
 # Examen 1ª Evaluación (2ª Parte) - Control de Versiones
-
+ Adrian Mosquera Alvarez
 ---
 
 ## Instrucciones
@@ -10,6 +10,8 @@
 ### Apartado 1
 
 - Clona este repositorio.
+![Captura desde 2025-12-16 13-15-02.png](imagenes/Captura%20desde%202025-12-16%2013-15-02.png)
+![Captura desde 2025-12-16 13-14-40.png](imagenes/Captura%20desde%202025-12-16%2013-14-40.png)
 - Modifica este Readme, poniendo tu nombre completo, realiza un `commit` con el mensaje *"Apartado 1"* y un `push`.
 
 Pregunta 
