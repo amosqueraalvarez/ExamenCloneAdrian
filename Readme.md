@@ -11,19 +11,29 @@
 ### Apartado 1
 
 - Clona este repositorio.
+
+### Copiamos la URL del repositorio que queremos clonar ###
 ![Captura desde 2025-12-16 13-15-02.png](imagenes/Captura%20desde%202025-12-16%2013-15-02.png)
+
+### Creamos un nuevo proyecto en el IDE y pegamos la URL del repositorio para clonarlo ###
+
 ![Captura desde 2025-12-16 13-14-40.png](imagenes/Captura%20desde%202025-12-16%2013-14-40.png)
+
 - Modifica este Readme, poniendo tu nombre completo, realiza un `commit` con el mensaje *"Apartado 1"* y un `push`.
 
 Pregunta 
 - ¿Qué paso es fundamental cuando clonamos un repositorio ajeno para que podamos subir nuestros propios commits? Explícalo y utiliza capturas de pantalla.
 
-Tenemos que crear un nuevo repositorio donde guardarlo en nuestra cuenta de github
+### Tenemos que crear un nuevo repositorio donde guardarlo en nuestra cuenta de github ###
 
 ![Captura desde 2025-12-16 13-23-43.png](imagenes/Captura%20desde%202025-12-16%2013-23-43.png)
 ### Apartado 2
 
 - Realiza una modificación en el código en la web de tu repositorio en GitHub
+
+### Desde el navegador realizamos los cambios en el documento y hacemos commit ###
+
+### Introduccion los comandos en el terminal para descargar los cambios y fusionar las ramas ###
 
 ![Captura desde 2025-12-16 13-25-53.png](imagenes/Captura%20desde%202025-12-16%2013-25-53.png)
 - Utiliza fetch para descargar los cambios realizados en tu repositorio.
@@ -36,6 +46,9 @@ Tenemos que crear un nuevo repositorio donde guardarlo en nuestra cuenta de gith
 Pregunta
 - Explica los pasos para que el código modificado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 
+#### (Explicado con capturas arriba) ####
+
+
 ### Apartado 3
 
 - Realiza otro cambio desde la web de tu repositorio en GitHub.
@@ -44,3 +57,11 @@ Pregunta
 Pregunta
 - Explica los pasos dados para que el cambio realizado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 
+### Primero realizamos la edicion del documento desde la web ###
+
+![Captura desde 2025-12-16 13-33-08.png](imagenes/Captura%20desde%202025-12-16%2013-33-08.png)
+
+### A continuacion desde el IDE vamos a opciones/Git/Pull y descargamos los cambios ###
+### Como podemos comprobar en el documento main.py los cambios estan sincronizados ### 
+
+![Captura desde 2025-12-16 13-34-33.png](imagenes/Captura%20desde%202025-12-16%2013-34-33.png)
