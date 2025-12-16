@@ -18,10 +18,20 @@
 Pregunta 
 - ¿Qué paso es fundamental cuando clonamos un repositorio ajeno para que podamos subir nuestros propios commits? Explícalo y utiliza capturas de pantalla.
 
+Tenemos que crear un nuevo repositorio donde guardarlo en nuestra cuenta de github
+
+![Captura desde 2025-12-16 13-23-43.png](imagenes/Captura%20desde%202025-12-16%2013-23-43.png)
 ### Apartado 2
 
 - Realiza una modificación en el código en la web de tu repositorio en GitHub
+
+![Captura desde 2025-12-16 13-25-53.png](imagenes/Captura%20desde%202025-12-16%2013-25-53.png)
 - Utiliza fetch para descargar los cambios realizados en tu repositorio.
+
+![Captura desde 2025-12-16 13-28-45.png](imagenes/Captura%20desde%202025-12-16%2013-28-45.png)
+
+![Captura desde 2025-12-16 13-29-04.png](imagenes/Captura%20desde%202025-12-16%2013-29-04.png)
+
 
 Pregunta
 - Explica los pasos para que el código modificado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
